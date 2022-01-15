@@ -18,18 +18,33 @@ The following deliverables were requested based on the metrics calculated above:
  - Average math and reading scores by grade for each school
  - Math and reading scores, and percent of students passing, by per capita spending
  - Math and reading scores, and percent of students passing, by school size
- - Math and reading scores, and percent of students passing, by school type (public vs. charter)
+ - Math and reading scores, and percent of students passing, by school type (district vs. charter)
 
 ### Reevaluation of the Metrics
 Evidence of academic dishonesty was found for 9th grade reading and math scores at Thomas High School.  In order to uphold state testing standards, a reevaluation of the metrics was performed.  Ninth grade reading and math scores at Thomas High School were subsequently replaced with "Not a Number" (NaN) and the metrics and deliverables were recalculated and reconstructed, respectively.  Results shown below indicate the before and after findings once the scores were replaced.
 
 
 ## Resources
-- Data sources: schools_complete.csv, students_complete.csv
+- Data Sources: schools_complete.csv, students_complete.csv
 - Software and Programming Languages: Jupyter Notebook v. 6.4.6; Python v. 3.8.3 :: Anaconda, Inc.; conda v. 4.11.0
 
 
 ## Results
+- District Summary
+
+
+- School Summary
+
+- High and Low Performing Schools
+
+- Math and Reading Scores by Grade
+
+- Scores by Per Capita Spending
+
+- Scores by School Size
+
+- Scores by School Type
+
 
 
 ## Summary
